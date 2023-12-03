@@ -32,7 +32,10 @@ body {
 }
 
 main {
-  margin-right: 20px;
-  margin-left: 20px;
+  margin: 10%;
+
   background-color: white;
+}
+div{
+  align-items: center;
 }
