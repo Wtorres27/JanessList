@@ -24,5 +24,5 @@ app.get('*', (req, res) => {
     res.render('error404')
 })
 
-// Listen for Connections
+// Listen for Connection
 app.listen(process.env.PORT)
